@@ -1,10 +1,10 @@
 # specify main menu items here
 
 - text: Home
-  url: /
+  url: /https://infiniteplaces-test.netlify.com/
 - text: About
   url: /about
 - text: Contact
   url: /contact
-- text: Blog
-  url: /blog
+- text: Atlas
+  url: /atlas
