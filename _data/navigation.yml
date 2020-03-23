@@ -1,7 +1,7 @@
 # specify main menu items here
 
 - text: Home
-  url: /https://infiniteplaces-test.netlify.com/
+  url: /home
 - text: About
   url: /about
 - text: Contact
