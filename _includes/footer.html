@@ -1,7 +1,5 @@
 <footer>
 
-  <p class="copyright">
-    &copy; {{ site.time | date: "%Y" }}
-  </p>
-  
+  <p>&copy; {{ 'now' | date: '%Y' }}, {{ site.title | link_to: '/' }}</p>
+    
 </footer>
